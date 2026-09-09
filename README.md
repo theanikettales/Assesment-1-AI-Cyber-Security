@@ -25,5 +25,5 @@ The project generates:
 - Category visualization
 - `Lab1_Final_Result.csv`
 
-RITIK SHARMA
-2401010058
+ANIKET SINGH
+2501012308
